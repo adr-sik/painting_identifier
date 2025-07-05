@@ -9,8 +9,8 @@ a pre-trained InceptionV3 model.
 ## Data Files
 
 The data is split into two parts:
-  details(general info like the author) - https://drive.google.com/file/d/1czwmpBQvABY86BlhSipVmNGOdn5czQjK/view?usp=drive_link
-  features(used for comparison) - https://drive.google.com/file/d/1ph_JPdmw419u3icFSOypXjwcdBknC4zM/view?usp=drive_link
+- **Details** (general info like the author) - https://drive.google.com/file/d/1czwmpBQvABY86BlhSipVmNGOdn5czQjK/view?usp=drive_link
+- **Features** (used for comparison) - https://drive.google.com/file/d/1ph_JPdmw419u3icFSOypXjwcdBknC4zM/view?usp=drive_link
 
 ## Usage
 
